@@ -1,4 +1,4 @@
-# Front-End Teste - DoroTech
+# Sobre o Projeto
 
 Neste projeto temos: dark/light mode, buscar personagens pelo nome, paginação e filtrar personagens por status e/ou espécie. 
 Sobre paginação, busca de personagens e filtros: foram definidas variáveis, onde os valores são inseridos à url da API. Fazendo com que o useEffect execute uma ação a cada modificação da url na API conferindo se há resultados.
