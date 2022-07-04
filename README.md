@@ -16,19 +16,19 @@ link hospedado no firebase: https://appmortyandrick.web.app
 
 - Clonar o repositório:
 ~~~
-$ git clone https://github.com/BrendonSSilva/ReactJsProject-API-RickAndMorty.git
+git clone https://github.com/BrendonSSilva/ReactJsProject-API-RickAndMorty.git
 ~~~
 - Entrar no diretório
 - Instalar as dependências:
 ~~~
-$ npm install axios
+npm install axios
 ~~~
 ~~~
-$ npm install node-sass --save
+npm install node-sass --save
 ~~~
 - Iniciar o app: 
 ~~~
-$ npm start
+npm start
 ~~~
 
 Link no Firebase: https://appmortyandrick.web.app
