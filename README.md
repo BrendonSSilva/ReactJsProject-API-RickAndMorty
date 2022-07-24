@@ -12,6 +12,10 @@ link hospedado no firebase: https://appmortyandrick.web.app
 - TypeScript
 - Sass
 
+<img src='images/rick.png'><br/>
+<img src='images/rick2.png'><br/>
+<img src='images/rickResp.png'><br/>
+
 # Como Utilizar?
 
 - Clonar o repositório:
